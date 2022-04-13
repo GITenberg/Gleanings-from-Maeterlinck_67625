@@ -1,0 +1,54 @@
+_repo: Gleanings-from-Maeterlinck_67625
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixera de
+    - Mattos, Alexander Teixeria de
+    - Teixeira de Mattos, Alexander Louis
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixeira de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
+    - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: 'Essays selected from: Our Eternity, The Unknown Guest, and The Wrack
+  of the Storm.'
+gutenberg_issued: '2022-03-13'
+identifiers:
+  gutenberg: '67625'
+language: en
+pgterms:marc904: https://archive.org/details/gleaningsfrommae00maetiala
+pgterms:marc905: 20140706214125maeterlinc
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: Mark C. Orton and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Methuen & Co. Ltd.,1913,copyright 1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Death'
+- !lcsh 'Belgian essays (French) -- Translations into English'
+- GITenberg
+tableOfContents: Our injustice to death -- Annihilation -- Communications with the
+  dead -- Our ultimate consciousness -- The two aspects of infinity -- Our fate in
+  those infinities -- Conclusions -- The knowledge of the future -- Heroism -- On
+  re-reading Thucydides -- The dead do not die -- In memoriam -- The life of the dead
+  -- The war and the prophets -- The will of earth -- When the war is over.
+title: Gleanings from Maeterlinck
+url: http://www.gutenberg.org/ebooks/67625
